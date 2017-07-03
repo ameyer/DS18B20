@@ -1,7 +1,7 @@
 # DS18B20 One-Wire Thermometer
 Arduino code for the DS18B20 one-wire thermometer
 
-For complete hookup and tutorial see bildr.org: http://bildr.org/2011/07/ds18b20-arduino/
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/ds18b20
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
